@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/cn/itcast/a_annotation/Demo.java=UTF-8
+encoding//src/cn/itcast/b_test/Demo.java=UTF-8
+encoding//src/cn/itcast/bean/Car.java=UTF-8
+encoding//src/cn/itcast/bean/User.java=UTF-8
+encoding//src/cn/itcast/c_proxy/Demo.java=UTF-8
+encoding//src/cn/itcast/c_proxy/UserServiceProxyFactory.java=UTF-8
+encoding//src/cn/itcast/c_proxy/UserServiceProxyFactory2.java=UTF-8
+encoding//src/cn/itcast/d_springaop/MyAdvice.java=UTF-8
+encoding//src/cn/itcast/e_annotationaop/MyAdvice.java=UTF-8
